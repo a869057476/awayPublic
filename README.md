@@ -1,5 +1,5 @@
 # 隐藏H5 video 在 chrome下显示下载按钮的两种方法
-1.caa的hack方式
+1.css的hack方式
 video::-internal-media-controls-download-button {
     display:none;
 }
